@@ -102,6 +102,9 @@ Olá! Sou um desenvolvedor por hobby. Este GitHub é meu laboratório de ideias:
 ---
 
 <div align="center">
+
 **Obrigado por visitar meu perfil!**
+
 </div>
+
 # madiovem-555
