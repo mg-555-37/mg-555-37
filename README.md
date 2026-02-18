@@ -10,7 +10,7 @@
 
 <div align="center">
   
-![Visitantes](https://icl-ashy.vercel.app/api/visitors/seu-usuario/badge.svg?label=visitantes)
+![Visitantes](https://icl-ashy.vercel.app/api/visitors/md-555/badge.svg?label=visitantes)
 
 </div>
 
@@ -81,10 +81,10 @@ Olá! Sou um desenvolvedor por hobby. Este GitHub é meu laboratório de ideias:
 <div align="center">
   
 <a href="https://icl-ashy.vercel.app">
-  <img src="https://icl-ashy.vercel.app/api/github-stats/madiovem-555?theme=ocean" width="400" alt="Estatísticas do GitHub">
+  <img src="https://icl-ashy.vercel.app/api/github-stats/md-555?theme=ocean" width="400" alt="Estatísticas do GitHub">
 </a>
 <a href="https://icl-ashy.vercel.app">
-  <img src="https://icl-ashy.vercel.app/api/github-langs/madiovem-555?theme=ocean" width="400" alt="Linguagens mais utilizadas">
+  <img src="https://icl-ashy.vercel.app/api/github-langs/md-555?theme=ocean" width="400" alt="Linguagens mais utilizadas">
 </a>
 
 </div>
