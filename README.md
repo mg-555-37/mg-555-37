@@ -1,6 +1,6 @@
 <div align="center">
 
-![Banner](https://ascentus-oss.vercel.app/api/svg/banner/capa-10.svg)
+![Banner](https://icl-ashy.vercel.app/api/svg/banner/capa-10.svg)
 
 </div>
 
@@ -9,7 +9,7 @@
 # 👋 Bem-vindo ao meu perfil!
 
 <div align="center">
-![Visitantes](https://ascentus-oss.vercel.app/api/visitors/ascentusoss/badge.svg?label=stalker)
+![Visitantes](https://icl-ashy.vercel.app/api/visitors/madiovem-555/badge.svg?label=stalker)
 </div>
 
 ## 🧑‍💻 Sobre mim
@@ -21,55 +21,55 @@ Olá! Sou um desenvolvedor por hobby. Este GitHub é meu laboratório de ideias:
 Atualmente testando o [Astro](https://astro.build/).
 
 <div align="center">
-![astro](https://ascentus-oss.vercel.app/api/svg/badges/skills/badge-astro.svg)
+![astro](https://icl-ashy.vercel.app/api/svg/badges/skills/badge-astro.svg)
 </div>
 
 ## 🚀 Tecnologias & Ferramentas
 
 ### Frontend
 <div align="center">
-![HTML](https://ascentus-oss.vercel.app/api/svg/badges/skills/badge-html.svg)
-![CSS](https://ascentus-oss.vercel.app/api/svg/badges/skills/badge-css.svg)
-![Tailwind CSS](https://ascentus-oss.vercel.app/api/svg/badges/skills/badge-tailwind.svg)
-![JavaScript](https://ascentus-oss.vercel.app/api/svg/badges/skills/badge-javascript.svg)
-![TypeScript](https://ascentus-oss.vercel.app/api/svg/badges/skills/badge-typescript.svg)
-![React](https://ascentus-oss.vercel.app/api/svg/badges/skills/badge-react.svg)
-![Next.js](https://ascentus-oss.vercel.app/api/svg/badges/skills/badge-nextjs.svg)
+![HTML](https://icl-ashy.vercel.app/api/svg/badges/skills/badge-html.svg)
+![CSS](https://icl-ashy.vercel.app/api/svg/badges/skills/badge-css.svg)
+![Tailwind CSS](https://icl-ashy.vercel.app/api/svg/badges/skills/badge-tailwind.svg)
+![JavaScript](https://icl-ashy.vercel.app/api/svg/badges/skills/badge-javascript.svg)
+![TypeScript](https://icl-ashy.vercel.app/api/svg/badges/skills/badge-typescript.svg)
+![React](https://icl-ashy.vercel.app/api/svg/badges/skills/badge-react.svg)
+![Next.js](https://icl-ashy.vercel.app/api/svg/badges/skills/badge-nextjs.svg)
 </div>
 
 ### Backend
 <div align="center">
-![nodejs](https://ascentus-oss.vercel.app/api/svg/badges/skills/badge-nodejs.svg)
-![Express](https://ascentus-oss.vercel.app/api/svg/badges/skills/badge-express.svg)
-![python](https://ascentus-oss.vercel.app/api/svg/badges/skills/badge-python.svg)
-![php](https://ascentus-oss.vercel.app/api/svg/badges/skills/badge-php.svg)
-![mongodb](https://ascentus-oss.vercel.app/api/svg/badges/skills/badge-mongodb.svg)
-![mysql](https://ascentus-oss.vercel.app/api/svg/badges/skills/badge-mysql.svg)
-![PostgreSQL](https://ascentus-oss.vercel.app/api/svg/badges/skills/badge-postgresql.svg)
-![SQLite](https://ascentus-oss.vercel.app/api/svg/badges/skills/badge-sqlite.svg)
-![firebase](https://ascentus-oss.vercel.app/api/svg/badges/skills/badge-firebase.svg)
-![Supabase](https://ascentus-oss.vercel.app/api/svg/badges/skills/badge-supabase.svg)
+![nodejs](https://icl-ashy.vercel.app/api/svg/badges/skills/badge-nodejs.svg)
+![Express](https://icl-ashy.vercel.app/api/svg/badges/skills/badge-express.svg)
+![python](https://icl-ashy.vercel.app/api/svg/badges/skills/badge-python.svg)
+![php](https://icl-ashy.vercel.app/api/svg/badges/skills/badge-php.svg)
+![mongodb](https://icl-ashy.vercel.app/api/svg/badges/skills/badge-mongodb.svg)
+![mysql](https://icl-ashy.vercel.app/api/svg/badges/skills/badge-mysql.svg)
+![PostgreSQL](https://icl-ashy.vercel.app/api/svg/badges/skills/badge-postgresql.svg)
+![SQLite](https://icl-ashy.vercel.app/api/svg/badges/skills/badge-sqlite.svg)
+![firebase](https://icl-ashy.vercel.app/api/svg/badges/skills/badge-firebase.svg)
+![Supabase](https://icl-ashy.vercel.app/api/svg/badges/skills/badge-supabase.svg)
 </div>
 
 ### DevOps & Deploy
 <div align="center">
-![Vercel](https://ascentus-oss.vercel.app/api/svg/badges/skills/badge-vercel.svg)
-![Cloudflare](https://ascentus-oss.vercel.app/api/svg/badges/skills/badge-cloudflare.svg)
-![Fly.io](https://ascentus-oss.vercel.app/api/svg/badges/skills/badge-fly.svg)
-![Linux](https://ascentus-oss.vercel.app/api/svg/badges/skills/badge-linux.svg)
+![Vercel](https://icl-ashy.vercel.app/api/svg/badges/skills/badge-vercel.svg)
+![Cloudflare](https://icl-ashy.vercel.app/api/svg/badges/skills/badge-cloudflare.svg)
+![Fly.io](https://icl-ashy.vercel.app/api/svg/badges/skills/badge-fly.svg)
+![Linux](https://icl-ashy.vercel.app/api/svg/badges/skills/badge-linux.svg)
 </div>
 
 ### Ferramentas de Desenvolvimento
 <div align="center">
-![Git](https://ascentus-oss.vercel.app/api/svg/badges/skills/ferramentas/badge-git.svg)
-![GitHub](https://ascentus-oss.vercel.app/api/svg/badges/skills/ferramentas/badge-github.svg)
-![GitHub Actions](https://ascentus-oss.vercel.app/api/svg/badges/skills/ferramentas/badge-github-actions.svg)
-![docker](https://ascentus-oss.vercel.app/api/svg/badges/skills/badge-docker.svg)
-![npm](https://ascentus-oss.vercel.app/api/svg/badges/skills/badge-npm.svg)
-![eslint](https://ascentus-oss.vercel.app/api/svg/badges/skills/badge-eslint.svg)
-![prettier](https://ascentus-oss.vercel.app/api/svg/badges/skills/badge-prettier.svg)
-![vitest](https://ascentus-oss.vercel.app/api/svg/badges/skills/badge-vitest.svg)
-![vscode](https://ascentus-oss.vercel.app/api/svg/badges/skills/badge-vscode.svg)
+![Git](https://icl-ashy.vercel.app/api/svg/badges/skills/ferramentas/badge-git.svg)
+![GitHub](https://icl-ashy.vercel.app/api/svg/badges/skills/ferramentas/badge-github.svg)
+![GitHub Actions](https://icl-ashy.vercel.app/api/svg/badges/skills/ferramentas/badge-github-actions.svg)
+![docker](https://icl-ashy.vercel.app/api/svg/badges/skills/badge-docker.svg)
+![npm](https://icl-ashy.vercel.app/api/svg/badges/skills/badge-npm.svg)
+![eslint](https://icl-ashy.vercel.app/api/svg/badges/skills/badge-eslint.svg)
+![prettier](https://icl-ashy.vercel.app/api/svg/badges/skills/badge-prettier.svg)
+![vitest](https://icl-ashy.vercel.app/api/svg/badges/skills/badge-vitest.svg)
+![vscode](https://icl-ashy.vercel.app/api/svg/badges/skills/badge-vscode.svg)
 </div>
 
 ---
@@ -77,11 +77,11 @@ Atualmente testando o [Astro](https://astro.build/).
 ## 📊 Estatísticas do GitHub
 
 <div align="center">
-<a href="https://ascentus-oss.vercel.app">
-  <img src="https://ascentus-oss.vercel.app/api/github-stats/ascentusoss?theme=ocean" width="400" alt="Estatísticas do GitHub">
+<a href="https://icl-ashy.vercel.app">
+  <img src="https://icl-ashy.vercel.app/api/github-stats/madiovem-555?theme=ocean" width="400" alt="Estatísticas do GitHub">
 </a>
-<a href="https://ascentus-oss.vercel.app">
-  <img src="https://ascentus-oss.vercel.app/api/github-langs/ascentusoss?theme=ocean" width="400" alt="Linguagens mais utilizadas">
+<a href="https://icl-ashy.vercel.app">
+  <img src="https://icl-ashy.vercel.app/api/github-langs/madiovem-555?theme=ocean" width="400" alt="Linguagens mais utilizadas">
 </a>
 </div>
 
@@ -90,8 +90,8 @@ Atualmente testando o [Astro](https://astro.build/).
 ## 📫 Contato
 
 <div align="center">
-[![Gmail](https://ascentus-oss.vercel.app/api/svg/social/social-gmail.svg)](mailto:ossmoralus@gmail.com)
-[![WhatsApp](https://ascentus-oss.vercel.app/api/svg/social/social-whatsapp.svg)](https://wa.me/5537998553430)
+[![Gmail](https://icl-ashy.vercel.app/api/svg/social/social-gmail.svg)](mailto:ossmoralus@gmail.com)
+[![WhatsApp](https://icl-ashy.vercel.app/api/svg/social/social-whatsapp.svg)](https://wa.me/5537998553430)
 </div>
 
 ---
