@@ -116,3 +116,4 @@ Aberto a trocar ideias, colaborações e feedbacks.
 [![WhatsApp](https://galeria-mg-555-37.vercel.app/api/svg/social/social-whatsapp.svg)](https://wa.me/5537998553430)
 
 </div># i-c-l-5-5-5
+# i-c-l-5-5-5
